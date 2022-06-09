@@ -1,5 +1,9 @@
 # Wazuh-HealthCheck
+<<<<<<< HEAD
 ----------------HealthCheck Configuration for Wazuh Master---------
+=======
+----------HealthCheck Configuration for Wazuh Master--------------------
+>>>>>>> fd49527c727f0a1f32ded1bb09a68e4e59b47d68
 - First the below command to verify the processes
 	ps -aux | grep 'var/ossec/bin/wazuh-*'
 	
